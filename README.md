@@ -80,17 +80,7 @@ A cumulative-opportunity accessibility measure with a 60-minute travel-time thre
 
 ## 研究方法与研究技术
 
-flowchart TD
-    A[站点、运行时间与发车间隔] --> B[按时段与服务等级建立时间成本]
-    B --> C[60 分钟可达范围与可达站点]
-    D[商业 POI 采集与分类] --> E[500 米与 1000 米缓冲区分析]
-    D --> F[可达范围内商业机会统计]
-    C --> F
-    E --> G[规模、核密度、集聚度与多样性]
-    C --> H[通达性与商业空间耦合协调评价]
-    F --> H
-    G --> H
-    H --> I[线路比较与 TOD 规划讨论]
+<img width="1320" height="1152" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/19f879d5-3691-4be8-af5c-d21e3aa6398d" />
 
 - 时间成本建模：区分候车、站间行驶与停站时间，按照服务类型与高峰、平峰构建情景
 - GIS网络分析：以60分钟作为核心阈值，使用OD成本矩阵与服务区分析描述可达范围；论文方法部分另设45、75分钟敏感性分析。
