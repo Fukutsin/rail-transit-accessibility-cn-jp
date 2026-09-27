@@ -1,6 +1,6 @@
 # Rail Transit Accessibility and Commercial Spatial Patterns
 
-language support: [English(英语)](#rail-transit-accessibility-and-commercial-spatial-patterns), [Chinese(中文)](#轨道交通可达性和商业空间格局)
+language support: [English(英语)](#rail-transit-accessibility-and-commercial-spatial-patterns), [Chinese(中文)](#轨道交通服务与一小时商业可达性)
 
 A comparative GIS study of the Utsunomiya Line in Tokyo Metropolitan Area and Chongqing Metro Line 6.
 
@@ -51,7 +51,7 @@ A cumulative-opportunity accessibility measure with a 60-minute travel-time thre
 
 ## 轨道交通服务与一小时商业可达性
 
-语言支持: [English(英语)](#rail-transit-accessibility-and-commercial-spatial-patterns), [Chinese(中文)](#轨道交通可达性和商业空间格局)
+语言支持: [English(英语)](#rail-transit-accessibility-and-commercial-spatial-patterns), [Chinese(中文)](#轨道交通服务与一小时商业可达性)
 
 对重庆市轨道交通6号线与东京宇都宫线的GIS对比分析研究
 
